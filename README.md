@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚨 AI-Powered Real-Time Fraud Detection System
 
 ## 📌 Project Overview
@@ -46,3 +47,7 @@ python app.py
 Open:
 http://127.0.0.1:5000
 
+=======
+# AI-Real-Time-Fraud-Detection-System
+AI-powered real-time fraud detection system with adaptive anomaly monitoring and live model performance tracking using Flask and Scikit-learn.
+>>>>>>> 7a98a8972a31251f656baa02663c8c26845f657a
